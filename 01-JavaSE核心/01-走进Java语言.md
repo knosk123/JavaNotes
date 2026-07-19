@@ -12,7 +12,7 @@
 写一个 `HelloWorld` 程序，并分别用 IDEA 和命令行运行。
 
 文件名Main.java
-```
+```java
 public class Main{
 	public static void main(String[] args){
 		System.out.println("Hello World!");
